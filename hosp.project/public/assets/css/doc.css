@@ -1,0 +1,46 @@
+.container{
+    margin-left:auto;
+    margin-right: auto;
+    width: 400px;
+    height: 80px;
+    margin-top: 0px;
+}
+.form{
+    border:1px solid;
+}
+button{
+    color: white;
+    padding:14px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 170px;
+    background-color: black;
+    float: right;
+    border: none;
+    border-radius: 5px;
+}
+.imgcontainer{
+    height: 250px;
+    width:450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    display: block;
+}
+.input_field{
+    width: 400px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.psw{
+    text-align: center;
+}
+.doc{
+    text-align: center;
+}
+.doctors{
+    text-align: center;
+}

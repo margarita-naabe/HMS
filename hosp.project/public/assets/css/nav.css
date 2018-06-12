@@ -1,0 +1,34 @@
+.navholder{
+    width: 1300px;
+    height: 32px;
+    margin-top: 70px;
+}
+
+.nav li {
+    display:inline-block;
+    margin-left: 5px;
+    text-align: center;
+
+}
+.nav li a{
+    text-decoration: none;
+    color: #000;
+}
+.navholder2{
+     width: 1300px;
+     height: 32px;
+     background-color: indigo;
+    margin: 0 auto 0 auto;
+ }
+.nav2 li {
+    display:inline-block;
+    margin-left: 6px;
+    text-align: center;
+    width: 120px;
+    padding-top: 5px;
+
+}
+.nav2 li a{
+    text-decoration: none;
+    color: #fff;
+}

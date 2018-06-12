@@ -1,0 +1,53 @@
+.container{
+    margin-left:auto;
+    margin-right: auto;
+    width: 600px;
+    height: 250px;
+    background-color: darkgrey;
+}
+.form{
+    border:1px solid;
+}
+button{
+    color: white;
+    padding:14px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 170px;
+    background-color: black;
+    float:right;
+    border: none;
+    border-radius: 5px;
+}
+.imgcontainer{
+    text-align :center;
+    margin:15px 0 10px ;
+}
+.pharm{
+    width: 200px;
+    border-radius:100px;
+    margin-top:auto ;
+}
+
+.input_field{
+    width: 600px;
+    height: 50px;
+    border: 1px solid blue;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.psw{
+    text-align: center;
+}
+.pharm{
+    height:200px;
+    width:600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgrey;
+}
+.pharmacy{
+    text-align: center;
+}

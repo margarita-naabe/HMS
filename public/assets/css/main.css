@@ -1,0 +1,50 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: sans-serif;
+    height: 100%;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto 0 auto;
+    height: 60px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+.main-contents {
+   height: auto;
+    min-height: 70%;
+}
+
+form {
+  position: relative;
+}
+
+
+
+.imgcontainer {
+    text-align: center;
+    margin: 15px 0 10px;
+}
+
+.hospital {
+    width: 200px;
+    border-radius: 100px;
+    margin-top: auto;
+}
+
+.hospital-management-system {
+    height: 200px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellowgreen;
+}
+
+.hos {
+    text-align: center;
+}

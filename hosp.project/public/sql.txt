@@ -1,0 +1,1 @@
+INSERT INTO `patients` (`id`, `NAME`, `AGE`, `GENDER`, `Date_of_birth`, `Ocupation`, `address`, `email`, `phone_number`, `emergency_contact`, `marital_status`) VALUES (NULL, 'mary', '6', 'f', '05/06/98', 'student', 'p.o.box67', 'maru@gmail.com', '02758267', '05893', 's');

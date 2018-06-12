@@ -1,0 +1,12 @@
+.footer {
+    width: 1200px;
+    height: 60px;
+    background-color: indigo;
+
+}
+.footer p{
+    color: white;
+    line-height: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
